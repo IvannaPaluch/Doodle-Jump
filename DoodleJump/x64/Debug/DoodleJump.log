@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  DoodleJump.cpp
+d:\games\doodle jump\doodlejump\doodlejump\doodlejump.cpp(18): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\games\doodle jump\doodlejump\doodlejump\doodlejump.cpp(53): warning C4305: "+=": obcięcie z "double" do "float"
+d:\games\doodle jump\doodlejump\doodlejump\doodlejump.cpp(54): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+d:\games\doodle jump\doodlejump\doodlejump\doodlejump.cpp(61): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+d:\games\doodle jump\doodlejump\doodlejump\doodlejump.cpp(69): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\games\doodle jump\doodlejump\doodlejump\doodlejump.cpp(75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  DoodleJump.vcxproj -> D:\Games\Doodle Jump\DoodleJump\x64\Debug\DoodleJump.exe
+  DoodleJump.vcxproj -> D:\Games\Doodle Jump\DoodleJump\x64\Debug\DoodleJump.pdb (Partial PDB)
